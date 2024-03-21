@@ -23,7 +23,6 @@ show_3_3 = -1
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Tic-Tac-Toe")
-#other names: tic tac snow, 
 
 bg_img = pygame.image.load("assets/background.png").convert_alpha() #600 px by 600 px
 x_img = pygame.image.load("assets/X.png").convert_alpha() #160 px by 160 px
